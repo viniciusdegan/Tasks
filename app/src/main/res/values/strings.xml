@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="label_no_tasks">Ainda não há tarefas</string>
+    <string name="label_new_tasks">Nova Tarefa</string>
+    <string name="label_task_title">Título da Tarefa</string>
+    <string name="label_task_description">Descrição da Tarefa</string>
+    <string name="label_task_observations">Observações</string>
+    <string name="label_add_task">Tarefa Salva</string>
+    <string name="label_change_task">Tarefa atualizada</string>
+    <string name="label_remove_task">Tarefa removida</string>
+    <string name="label_delete_task">Apagar Tarefa</string>
+    <string name="label_save_update">Salvar alterações</string>
+</resources>
